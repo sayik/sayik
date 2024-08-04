@@ -1,9 +1,9 @@
 <div align="center">
-<h1>> Hello World!</h1>
+<h1> > Hello World!</h1>
 
 👋 Hi, I'm @sayi_k!
 
-[Blog icon](assets/email-send.svg)
+![Blog icon](assets/email-send.svg)
 
 ## 🖥️ Technology and Social Good 🌟
 
