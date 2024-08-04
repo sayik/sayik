@@ -3,7 +3,11 @@
 
 👋 Hi, I'm @sayi_k!
 
-![Blog icon](assets/email-send.svg)[sayipk@icloud.com](mailto:sayipk@icloud.com)
+<a href="mailto:sayipk.com">
+  <img src="assets/email-send.svg" alt="Email icon" style="vertical-align: middle;"/>
+  sayipk.com
+</a>
+![Blog icon](assets/email-send.svg)
 
 ## 🖥️ Technology and Social Good 🌟
 
