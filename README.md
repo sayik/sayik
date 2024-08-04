@@ -3,7 +3,7 @@
 
 👋 Hi, I'm @sayi_k!
 
-[Blog icon][assets/email-send.svg]
+[Blog icon](assets/email-send.svg)
 
 ## 🖥️ Technology and Social Good 🌟
 
