@@ -3,7 +3,7 @@
 
 👋 Hi, I'm @sayi_k!
 
-![Blog icon](assets/email-send.svg)
+![Blog icon](assets/email-send.svg)(mailto:sayipk@gmail.com)
 
 ## 🖥️ Technology and Social Good 🌟
 
@@ -11,7 +11,7 @@ Technology has always been a big part of my life, and I've always been fascinate
 
 I see technology as a way to explore endless opportunities. Combining creativity with software development feels natural to me. I want to create tools and solutions that help people and communities grow and achieve more.
 
-This is my honest attempt to blend innovation and creativity, making a positive impact and accessing the exciting world of technology.
+This is my humble attempt to blend innovation and creativity, making a positive impact and accessing the exciting world of technology.
 
 This is my [Dharma](https://en.wikipedia.org/wiki/Dharma).
 
