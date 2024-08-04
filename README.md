@@ -5,7 +5,6 @@
 
 <a href="mailto:sayipk.com">
   <img src="assets/email-send.svg" alt="Email icon" style="vertical-align: middle;"/>
-  sayipk.com
 </a>
 
 ## 🖥️ Technology and Social Good 🌟
