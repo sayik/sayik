@@ -7,7 +7,7 @@
   <img src="assets/email-send.svg" alt="Email icon" style="vertical-align: middle;"/>
 </a>
 
-## 🖥️ Technology and Social Good 🌟
+## 🖥️ My Journey with Technology 🌟
 
 Technology has always been a big part of my life, and I've always been fascinated by modern, innovative ideas. I believe creativity is the highest form of expression. This belief drives my journey into the world of technology.
 
