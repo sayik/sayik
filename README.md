@@ -19,13 +19,13 @@ This is my [Dharma](https://en.wikipedia.org/wiki/Dharma)).
 
 ### [Handy_Hero](https://github.com/sayik/handy-v2)
 A location based listing of locally available vehicle mechanics.
-- Language: Python
-- Stars: 0
-- Forks: 0
+ Language: Python
+ Stars: 0
+ Forks: 0
 
 ### [activist-org/activist](https://github.com/activist-org/activist)
 An open-source activism platform
-- Language: Vue
-- Stars: 214
-- Forks: 179
+ Language: Vue
+ Stars: 214
+ Forks: 179
 </div>
