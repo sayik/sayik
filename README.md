@@ -7,7 +7,6 @@
   <img src="assets/email-send.svg" alt="Email icon" style="vertical-align: middle;"/>
   sayipk.com
 </a>
-![Blog icon](assets/email-send.svg)
 
 ## 🖥️ Technology and Social Good 🌟
 
