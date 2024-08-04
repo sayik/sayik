@@ -1,5 +1,5 @@
 <div align="center">
-<span>> Hello World!</span>
+<h1>> Hello World!</h1>
 
 👋 Hi, I'm @sayi_k!
 
