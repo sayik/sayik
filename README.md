@@ -13,7 +13,7 @@ I see technology as a way to explore endless opportunities. Combining creativity
 
 This is my honest attempt to blend innovation and creativity, making a positive impact and accessing the exciting world of technology.
 
-This is my [Dharma](https://en.wikipedia.org/wiki/Dharma)).
+This is my [Dharma](https://en.wikipedia.org/wiki/Dharma).
 
 ## Pinned
 
