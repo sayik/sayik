@@ -27,7 +27,8 @@ kwx is a toolkit for multilingual keyword extraction based on Google's BERT, Lat
  Forks: 12
 
 ### [activist-org/activist](https://github.com/activist-org/activist)
-An open-source activism platform
+An open-source activism platform.
+
  Language: Python, Docker, Vue, Tailwind
  Stars: 572
  Forks: 462
