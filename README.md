@@ -19,7 +19,7 @@ This is my [Dharma](https://en.wikipedia.org/wiki/Dharma).
 
 ## Pinned
 
-### [KWX]([https://github.com/andrewtavis/kwx.git])
+### [KWX](https://github.com/andrewtavis/kwx.git)
 kwx is a toolkit for multilingual keyword extraction based on Google's BERT, Latent Dirichlet Allocation and Term Frequency Inverse Document Frequency. The package provides a suite of methods to process texts of any language to varying degrees and then extract and analyze keywords from the created corpus (see kwx.languages for the various degrees of language support).
  Language: Python
  Stars: 76
